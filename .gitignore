@@ -1,2 +1,4 @@
 .DS_Store
 geoserver_data/
+client/node_modules/
+client/dist/
