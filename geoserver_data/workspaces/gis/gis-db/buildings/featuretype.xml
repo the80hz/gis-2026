@@ -1,0 +1,42 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-5e94feb5:19dd7c9908d:-7ff3</id>
+  <name>buildings</name>
+  <nativeName>buildings</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-5e94feb5:19dd7c9908d:-7ff5</id>
+  </namespace>
+  <title>buildings Layer</title>
+  <description>buildings from PostGIS</description>
+  <keywords>
+    <string>features</string>
+    <string>buildings</string>
+  </keywords>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>50.12682342529297</minx>
+    <maxx>50.1298713684082</maxx>
+    <miny>53.52340316772461</miny>
+    <maxy>53.52438735961914</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>50.12682342529297</minx>
+    <maxx>50.1298713684082</maxx>
+    <miny>53.52340316772461</miny>
+    <maxy>53.52438735961914</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-5e94feb5:19dd7c9908d:-7ff4</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,23 @@
+<dataStore>
+  <id>DataStoreInfoImpl-5e94feb5:19dd7c9908d:-7ff4</id>
+  <name>gis-db</name>
+  <description>GIS PostGIS Database</description>
+  <type>PostGIS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-5e94feb5:19dd7c9908d:-7ff6</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="schema">public</entry>
+    <entry key="database">gis</entry>
+    <entry key="port">5432</entry>
+    <entry key="passwd">crypt2:o/U4tVV8O8jIEfoFA1TEuI2PTAlV6o7OvCKo4cQRx/E=</entry>
+    <entry key="host">postgis</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="namespace">https://ssau.ru/gis</entry>
+    <entry key="user">gisuser</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2026-04-29 06:11:43.609 UTC</dateCreated>
+  <disableOnConnFailure>false</disableOnConnFailure>
+</dataStore>
